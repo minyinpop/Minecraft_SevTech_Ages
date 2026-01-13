@@ -1,0 +1,543 @@
+{
+  "triumph:stage0/mat": {
+    "criteria": {
+      "completedParent": "2025-12-25 19:35:35 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/melter": {
+    "criteria": {
+      "hasRock": "2025-12-26 13:50:21 +0800",
+      "completedParent": "2025-12-26 13:50:17 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/stoneanvil": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800",
+      "crafted": "2025-12-26 20:18:50 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2025-12-25 16:09:16 +0800",
+      "hasRock": "2025-12-26 11:55:24 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/abyssalgem": {
+    "criteria": {
+      "hasRock": "2025-12-26 12:13:41 +0800",
+      "completedParent": "2025-12-26 11:59:49 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2025-12-25 15:57:25 +0800",
+      "brokeLog1": "2025-12-25 15:58:26 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/saddle": {
+    "criteria": {
+      "completedParent": "2025-12-26 12:56:13 +0800",
+      "hasRock": "2025-12-26 16:51:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/melterbase": {
+    "criteria": {
+      "hasRock": "2025-12-26 13:50:17 +0800",
+      "completedParent": "2025-12-26 13:50:11 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "hasRock": "2025-12-25 18:55:01 +0800",
+      "completedParent": "2025-12-25 16:09:16 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/buffalo": {
+    "criteria": {
+      "hasRock": "2025-12-26 13:22:47 +0800",
+      "completedParent": "2025-12-26 13:22:18 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/alloykiln": {
+    "criteria": {
+      "completedParent": "2025-12-26 15:13:16 +0800",
+      "hasRock": "2025-12-27 19:01:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/totemic": {
+    "criteria": {
+      "completedParent": "2025-12-25 19:35:35 +0800",
+      "hasRock": "2025-12-26 13:22:18 +0800",
+      "hasRock2": "2025-12-26 13:22:18 +0800",
+      "hasRock3": "2025-12-26 13:22:18 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/root": {
+    "criteria": {
+      "completedStage0": "2025-12-26 13:50:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/huntingdim": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/flamehopper": {
+    "criteria": {
+      "completedParent": "2025-12-25 17:10:55 +0800",
+      "hasRock": "2025-12-26 13:50:11 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/farmland": {
+    "criteria": {
+      "completedParent": "2025-12-25 17:37:02 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2025-12-25 15:59:54 +0800",
+      "crafted": "2025-12-25 16:09:16 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodhopper1": {
+    "criteria": {
+      "hasRock": "2025-12-25 16:54:52 +0800",
+      "completedParent": "2025-12-25 16:47:31 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/lowgradecharcoal": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:53:06 +0800",
+      "completedParent": "2025-12-25 17:46:23 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/claybarrel": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/woodhopper2": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:10:55 +0800",
+      "completedParent": "2025-12-25 16:54:52 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/lead": {
+    "criteria": {
+      "completedParent": "2025-12-25 19:35:35 +0800",
+      "hasRock": "2025-12-26 12:56:13 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/firsttool": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:57:25 +0800",
+      "completedParent": "2025-12-25 15:37:54 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/fish": {
+    "criteria": {
+      "killed_fish": "2025-12-25 17:33:31 +0800",
+      "completedParent": "2025-12-25 17:22:29 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/fiber": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:42:36 +0800",
+      "completedParent": "2025-12-25 15:37:54 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/firepit": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:13:39 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/furnace": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:52:23 +0800",
+      "crafted": "2025-12-26 14:00:28 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/tipi": {
+    "criteria": {
+      "hasRock": "2025-12-25 20:23:33 +0800",
+      "completedParent": "2025-12-25 19:35:35 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/tchannel": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/parrot": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:47:38 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/aquamarine": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:50:24 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/collectplank": {
+    "criteria": {
+      "completedParent": "2025-12-25 15:58:26 +0800",
+      "crafted": "2025-12-25 15:59:54 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/hoe": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/stepup": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:32:45 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/blackquartz": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:50:24 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:37:02 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/saltflats": {
+    "criteria": {
+      "completedParent": "2025-12-25 18:12:21 +0800",
+      "hasRock5": "2025-12-25 17:44:36 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:52:45 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/baykok": {
+    "criteria": {
+      "hasRock": "2025-12-26 13:41:58 +0800",
+      "completedParent": "2025-12-26 13:22:47 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/horsepower": {
+    "criteria": {
+      "completedParent": "2025-12-26 12:56:13 +0800",
+      "hasRock": "2025-12-26 17:48:39 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/atlas": {
+    "criteria": {
+      "book1": "2025-12-26 12:21:38 +0800",
+      "completedParent": "2025-12-25 17:37:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/wheel": {
+    "criteria": {
+      "completedParent": "2025-12-26 16:51:25 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/statue": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:27:49 +0800",
+      "hasRock5": "2025-12-27 19:47:38 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "hasRock": "2025-12-25 16:57:37 +0800",
+      "completedParent": "2025-12-25 17:37:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/abyssalbiome": {
+    "criteria": {
+      "entered_forest": "2025-12-26 11:59:49 +0800",
+      "completedParent": "2025-12-26 11:55:24 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/fertility": {
+    "criteria": {
+      "ceremony": "2025-12-26 13:30:03 +0800",
+      "completedParent": "2025-12-26 13:22:18 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/chestupgrade": {
+    "criteria": {
+      "completedParent": "2025-12-25 16:47:31 +0800",
+      "hasRock": "2025-12-26 12:52:28 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:22:29 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/horsechopper": {
+    "criteria": {
+      "completedParent": "2025-12-26 17:48:39 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage3/iehammer": {
+    "criteria": {
+      "hasRock": "2025-12-27 18:35:59 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/mill": {
+    "criteria": {
+      "hasRock": "2025-12-26 12:46:20 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/leather": {
+    "criteria": {
+      "completedParent": "2025-12-25 18:55:01 +0800",
+      "hasRock": "2025-12-25 19:35:35 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/necro": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:10:52 +0800",
+      "crafted": "2025-12-27 19:27:49 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/tin": {
+    "criteria": {
+      "brokeLog1": "2025-12-27 17:39:23 +0800",
+      "completedParent": "2025-12-26 14:14:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/bloodaltar": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:01:43 +0800",
+      "hasRock": "2025-12-27 19:32:45 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/handgrind": {
+    "criteria": {
+      "hasRock": "2025-12-25 18:35:53 +0800",
+      "completedParent": "2025-12-25 16:09:16 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/copper": {
+    "criteria": {
+      "brokeLog2": "2025-12-26 15:13:16 +0800",
+      "completedParent": "2025-12-26 14:14:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:44:21 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/bronze": {
+    "criteria": {
+      "hasRock": "2025-12-27 19:10:52 +0800",
+      "completedParent": "2025-12-27 19:01:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "hasRock": "2025-12-25 16:19:48 +0800",
+      "completedParent": "2025-12-25 17:37:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/woodbasin": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/gear": {
+    "criteria": {
+      "hasRock": "2025-12-26 13:44:14 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/crafting": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800",
+      "crafted": "2025-12-26 13:52:23 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/flintknapp": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:50:08 +0800",
+      "completedParent": "2025-12-25 15:49:06 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/chest": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:52:23 +0800",
+      "brokeLog": "2025-12-26 13:54:44 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2025-12-25 16:09:16 +0800",
+      "hasRock2": "2025-12-25 19:23:00 +0800",
+      "hasRock1": "2025-12-25 19:19:06 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/grill": {
+    "criteria": {
+      "hasRock": "2025-12-25 18:12:21 +0800",
+      "completedParent": "2025-12-25 17:13:39 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/plumbline": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:52:23 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/pedestal": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:47:38 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage1/prospector": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:52:23 +0800",
+      "crafted": "2025-12-26 14:14:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/root": {
+    "criteria": {
+      "location": "2025-12-25 15:37:54 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:46:23 +0800",
+      "completedParent": "2025-12-25 16:09:16 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/leafbed": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:52:23 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstchest": {
+    "criteria": {
+      "hasRock": "2025-12-25 16:47:31 +0800",
+      "completedParent": "2025-12-25 16:09:16 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/beneath": {
+    "criteria": {
+      "completedParent": "2025-12-27 19:47:38 +0800",
+      "entered_nether": "2025-12-27 19:50:24 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/coal": {
+    "criteria": {
+      "completedParent": "2025-12-26 14:14:21 +0800",
+      "hasRock": "2025-12-26 16:51:35 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "hasRock": "2025-12-25 17:31:44 +0800",
+      "completedParent": "2025-12-25 15:57:25 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodenbarrel": {
+    "criteria": {
+      "completedParent": "2025-12-25 18:55:01 +0800",
+      "hasRock1": "2025-12-25 19:17:45 +0800"
+    },
+    "done": true
+  },
+  "triumph:stage1/aqueduct": {
+    "criteria": {
+      "completedParent": "2025-12-26 13:50:21 +0800"
+    },
+    "done": false
+  },
+  "triumph:stage0/mesh": {
+    "criteria": {
+      "hasRock": "2025-12-25 15:49:06 +0800",
+      "completedParent": "2025-12-25 15:42:36 +0800"
+    },
+    "done": true
+  }
+}
