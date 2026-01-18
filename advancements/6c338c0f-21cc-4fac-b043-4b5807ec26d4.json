@@ -1262,9 +1262,10 @@
   },
   "triumph:stage4/pressurechamberwall": {
     "criteria": {
-      "completedParent": "2026-01-06 23:58:10 +0800"
+      "completedParent": "2026-01-06 23:58:10 +0800",
+      "hasRock": "2026-01-18 13:26:40 +0800"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/soundmuffler": {
     "criteria": {
